@@ -16,7 +16,7 @@ class Tour extends Component {
     return (
       <section className="tour">
         <div className="image-container">
-          <img src={img} alt="Tour image" />
+          <img src={img} alt="Tour" />
           <span className="close-btn">
             <i
               className="fa fa-window-close"

@@ -8,17 +8,17 @@ const Navbar = () => {
       <img src={logo} alt="logo" />
       <ul className="nav-links">
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             Home
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             About
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link active">
+          <a href="/" className="nav-link active">
             Tours
           </a>
         </li>
